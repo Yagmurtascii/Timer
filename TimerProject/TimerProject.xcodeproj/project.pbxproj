@@ -14,7 +14,7 @@
 		65103F242C46B70B00B52B9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65103F232C46B70B00B52B9B /* Assets.xcassets */; };
 		65103F272C46B70B00B52B9B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 65103F262C46B70B00B52B9B /* Base */; };
 		65103F312C46B80B00B52B9B /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65103F302C46B80B00B52B9B /* TimerViewController.swift */; };
-		65103F362C46D2F100B52B9B /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 65103F352C46D2F100B52B9B /* click.mp3 */; };
+		65103F382C46ED3D00B52B9B /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 65103F372C46ED3D00B52B9B /* click.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		65103F262C46B70B00B52B9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65103F282C46B70B00B52B9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65103F302C46B80B00B52B9B /* TimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
-		65103F352C46D2F100B52B9B /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = click.mp3; path = ../../../../../../Desktop/click.mp3; sourceTree = "<group>"; };
+		65103F372C46ED3D00B52B9B /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = click.mp3; path = ../../../../../../../Desktop/click.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +76,7 @@
 		65103F322C46D2BE00B52B9B /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				65103F352C46D2F100B52B9B /* click.mp3 */,
+				65103F372C46ED3D00B52B9B /* click.mp3 */,
 			);
 			path = Sounds;
 			sourceTree = "<group>";
@@ -140,7 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65103F242C46B70B00B52B9B /* Assets.xcassets in Resources */,
-				65103F362C46D2F100B52B9B /* click.mp3 in Resources */,
+				65103F382C46ED3D00B52B9B /* click.mp3 in Resources */,
 				65103F272C46B70B00B52B9B /* Base in Resources */,
 				65103F222C46B70A00B52B9B /* Base in Resources */,
 			);
